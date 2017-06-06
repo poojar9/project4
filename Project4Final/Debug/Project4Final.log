@@ -1,0 +1,5 @@
+﻿  simulate.cpp
+c:\users\pooja\documents\visual studio 2015\projects\project4final\project4final\simulate.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\pooja\documents\visual studio 2015\projects\project4final\project4final\simulate.cpp(143): warning C4018: '<': signed/unsigned mismatch
+  Project4Final.vcxproj -> C:\Users\Pooja\documents\visual studio 2015\Projects\Project4Final\Debug\Project4Final.exe
+  Project4Final.vcxproj -> C:\Users\Pooja\documents\visual studio 2015\Projects\Project4Final\Debug\Project4Final.pdb (Full PDB)
